@@ -1,5 +1,22 @@
 # Aero-Paint-App
+Project - Aero Paint App
+
 A paint app which uses hand gestures for painting.
+
+
+Features:
+
+-> Different colour options.
+
+-> Different brush sizes.
+
+-> Clear screen, maximize and minimize options.
+
+-> Different hand gesture options and shortcuts.
+
+-> Option to save the painting.
+
+
 Required libraries/Libraries used :-
 
 cv2 (OpenCV)
@@ -8,6 +25,7 @@ mediapipe
 math
 numpy
 os
+
 
 Steps to run the application:-
 
