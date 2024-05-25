@@ -20,10 +20,15 @@ Features:
 Required libraries/Libraries used :-
 
 cv2 (OpenCV)
+
 time
+
 mediapipe
+
 math
+
 numpy
+
 os
 
 
